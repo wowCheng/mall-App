@@ -9,3 +9,9 @@ Vue，Vue-Router,Vuex，axios
 better-Scroll ：更好的滚动动画（貌似有点小bug）
 
 fastClick ：解决移动端300ms点击延迟（没感觉出来有什么用）
+
+# 使用
+
+#npm install
+
+#npm run serve
